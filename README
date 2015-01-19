@@ -10,3 +10,5 @@ Completed User Stories:
 2. The app has a settings page where you can specify percentages for various service levels, these settings are persistent
 and effective across views. The percentages specified are validated to be valid (in the range 0-99)
 
+Please go here for seeing the gif of the app : https://github.com/ajitpasi/tipcalc/wiki/README
+
